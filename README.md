@@ -10,10 +10,12 @@ We ran into some challenges, but our team figured them out:
   
 ☑️ Challenge 2: Data Leakage
 - Solution: We trained both Recursive Model (feeding predictions back into subsequent forecasts) and 
+  
   Direct Multi-Horizon Model (training separate models for each day T+1, T+2, etc.)
 
 🎉 Impact:
 We achieved a MAPE of 6.41%, which is great for the retail industry. 
 As we learned, even a 1% reduction in forecast error across Walmart's scale (4,600 stores × 40 departments) 
-can save them 20k–45k weekly labor hours of overstaffing/understaffing. 
+can save them 20k–45k weekly labor hours of overstaffing/understaffing.
+
 That's a real-world business impact!
