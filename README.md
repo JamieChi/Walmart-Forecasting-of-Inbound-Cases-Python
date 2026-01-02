@@ -1,11 +1,12 @@
-1. Goal: better truck planning, optimized staff allocation, and overall efficient operations.
+1. Goal:
+Better truck planning, optimized staff allocation, and overall efficient operations.
 
-2. Approaches:
+3. Approaches:
 We went beyond several models, integrated external data, and let AI do its thing through In-Context Learning to identify patterns.
 Of course, it wasn't all smooth. 
 We ran into some challenges, but our team figured them out.
 
-3. Challenges
+4. Challenges:
 - Challenge 1: Missing External Data
 - Solution: We forecasted the missing data (e.g., using Linear Regression)
   
