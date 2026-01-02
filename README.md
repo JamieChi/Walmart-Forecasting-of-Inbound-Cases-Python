@@ -6,10 +6,10 @@ Of course, it wasn't all smooth.
 We ran into some challenges, but our team figured them out.
 
 3. Challenges
-☑️ Challenge 1: Missing External Data
+- Challenge 1: Missing External Data
 - Solution: We forecasted the missing data (e.g., using Linear Regression)
   
-☑️ Challenge 2: Data Leakage
+- Challenge 2: Data Leakage
 - Solution: We trained both Recursive Model (feeding predictions back into subsequent forecasts) and Direct Multi-Horizon Model (training separate models for each day T+1, T+2, etc.)
 
 4. Impact:
